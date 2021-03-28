@@ -1,0 +1,122 @@
+body {
+   min-height: 94vh;
+   margin: 0;
+   background: linear-gradient(to top left, powderblue, lightgreen);
+   background-repeat: no-repeat;
+   font-family: 'Droid Sans';
+}
+
+.app {
+   width: 100%;
+   max-width: 520px;
+   margin: 50px auto;
+   padding: 25px 50px 50px;
+   box-sizing: border-box;
+   border-radius: 5px;
+   box-shadow: 0 0 4px #666666;
+   background: rgba(255, 255, 255, .4);
+}
+
+.app__time-date {
+   display: flex;
+   justify-content: space-between;
+   color: #515151;
+   font-size: 17px;
+   font-weight: 600;
+   margin-bottom: 15px;
+}
+
+.app__form {
+   display: flex;
+   justify-content: center;
+   height: 45px;
+}
+
+.app__input-add {
+   width: 100%;
+   padding: 10px 15px;
+   margin-right: 3px;
+   font-size: 16px;
+}
+
+.app__btn-add {
+   color: #515151;
+   border-radius: 6px;
+   width: 100%;
+   max-width: 115px;
+   font-size: 14px;
+   font-weight: 600;
+   cursor: pointer;
+}
+
+.app__task {
+    list-style: none;
+    min-height: 30px;
+    width: 190px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+    word-break: break-all;
+    line-height: 16px;
+    color: #515151;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+
+.app__tasks-list {
+   list-style: none;
+   padding-left: 0;
+}
+
+.app__completed-task {
+   text-decoration: line-through;
+   color: #5F9EA2;
+}
+
+.app__list-item {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   box-sizing: border-box;
+   min-height: 50px;
+   margin-top: 10px;
+   border-bottom: 1px solid grey;
+}
+
+.app__item-text {
+   font-size: 17px;
+}
+
+.btn-group {
+   cursor: pointer;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   width: 18px;
+   height: 18px;
+   border: none;
+   border-radius: 6px;
+   outline: none;
+   margin-right: 5px;
+}
+
+.btn-group:hover {
+   background-color: #00000069;
+   opacity: 0.5;
+}
+
+.app__remove-task {
+   background-image: url('./image/clear.png');
+}
+
+.app__edit-task {
+   background-image: url('./image/edit.png');
+}
+
+.app__edited-task-save {
+   background-image: url('./image/save.png');
+}
+
+.app__task-completed {
+   background-image: url('./image/completed.png');
+}
