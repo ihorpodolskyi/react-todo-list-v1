@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-todo-list/static/css/main.96c2daa1.chunk.css",
-    "main.js": "/react-todo-list/static/js/main.0e7021bc.chunk.js",
-    "main.js.map": "/react-todo-list/static/js/main.0e7021bc.chunk.js.map",
-    "runtime-main.js": "/react-todo-list/static/js/runtime-main.48d04789.js",
-    "runtime-main.js.map": "/react-todo-list/static/js/runtime-main.48d04789.js.map",
-    "static/js/2.081e718a.chunk.js": "/react-todo-list/static/js/2.081e718a.chunk.js",
-    "static/js/2.081e718a.chunk.js.map": "/react-todo-list/static/js/2.081e718a.chunk.js.map",
-    "index.html": "/react-todo-list/index.html",
-    "precache-manifest.4a904ddfbc066a882d2e1ac336618e86.js": "/react-todo-list/precache-manifest.4a904ddfbc066a882d2e1ac336618e86.js",
-    "service-worker.js": "/react-todo-list/service-worker.js",
-    "static/css/main.96c2daa1.chunk.css.map": "/react-todo-list/static/css/main.96c2daa1.chunk.css.map",
-    "static/media/App.css": "/react-todo-list/static/media/edit.40b3772e.png"
+    "main.css": "/react-todo-list-v1/static/css/main.f59c11ce.chunk.css",
+    "main.js": "/react-todo-list-v1/static/js/main.0e7021bc.chunk.js",
+    "main.js.map": "/react-todo-list-v1/static/js/main.0e7021bc.chunk.js.map",
+    "runtime-main.js": "/react-todo-list-v1/static/js/runtime-main.91c907d3.js",
+    "runtime-main.js.map": "/react-todo-list-v1/static/js/runtime-main.91c907d3.js.map",
+    "static/js/2.081e718a.chunk.js": "/react-todo-list-v1/static/js/2.081e718a.chunk.js",
+    "static/js/2.081e718a.chunk.js.map": "/react-todo-list-v1/static/js/2.081e718a.chunk.js.map",
+    "index.html": "/react-todo-list-v1/index.html",
+    "precache-manifest.5368aeef9449e8031656c5fb0fe5828f.js": "/react-todo-list-v1/precache-manifest.5368aeef9449e8031656c5fb0fe5828f.js",
+    "service-worker.js": "/react-todo-list-v1/service-worker.js",
+    "static/css/main.f59c11ce.chunk.css.map": "/react-todo-list-v1/static/css/main.f59c11ce.chunk.css.map",
+    "static/media/App.css": "/react-todo-list-v1/static/media/edit.40b3772e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.48d04789.js",
+    "static/js/runtime-main.91c907d3.js",
     "static/js/2.081e718a.chunk.js",
-    "static/css/main.96c2daa1.chunk.css",
+    "static/css/main.f59c11ce.chunk.css",
     "static/js/main.0e7021bc.chunk.js"
   ]
 }
